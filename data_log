@@ -37,3 +37,21 @@ As far as how I'm going to tackle the problem with the intersections, I think I'
 Also, I've started to notice that some of the bigger incidents such as homicides don't seem to be listed in the incident summaries that I'm collecting. I need to figure out what sort of crimes get summaries, and what's excluded. 
 
 When I was doing the homework last night, I tried to do this with the motor vehicle thefts data, but struggled to determine where the theft should count if two streets (intersections) are listed. I know I'll have a similar problem with my data set.
+
+Week 4
+
+I found out this week from a police PIO that every incident that is associated with a charge will receive an incident summary, but not necessarily every call made to the precinct. For example, if someone calls to complain about a neighbor but the neighbor is not technically doing anything illegal, there won't be a report on that. 
+
+As far as what I was noticing about some bigger crimes that we've reported based on media releases that I didn't see at the precincts, I was told the headquarters tell the precinct leaders to hold off on releasing the reports on them until they have vetted out the sensitive information from those. 
+To make up not having the reports, police said, they have the media releases. But this is generally limited to homicide cases, but I think there's at least one kidnapping incident that I don't have a report of as well. 
+
+To make up for this, I'll have to go through the county site to find all their media releases and fill out my spreadsheet with that. And possibly get the incident summaries too, if there's information not available on the releases that I need.
+
+When analyzing my data, I figured that I can use the Baltimore County Index Crimes PDF, which has Part 1 crime totals for each precinct from January to September and comparisions to the previous 5-year average. Reports from the previous years aren't available online, but I'll plan to get
+at least the past two years from the police department. I think I'll focus my analysis on how the precincts are doing so far this year, compared to where that lines up average wise at the same points in the previous years. 
+
+Obviously a full year's worth of data would be better. Also, it might not be a great comparison because police suspect that the unusually cold winter has helped keep crime down, and my data won't have figures from summer, when crime rates are typically the highest as a result of the good weather.
+
+I also realized that I made some huge errors on my spreadsheet where a good amount of times I mixed up the dates reported and dates occurred categories. Luckily, I still have all the original records, but I need to go through it all again and fix that, hopefully by the end of this weekend. 
+
+I'll upload that and the PDF file to the log once my data is clean and I figure out how to add files to GitHub.
